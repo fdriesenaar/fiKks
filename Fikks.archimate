@@ -32,7 +32,7 @@
     <element xsi:type="archimate:ApplicationService" id="c23baa75" name="Inzage eigen gegevens"/>
     <element xsi:type="archimate:ApplicationService" id="8ca222df" name="Inzage eigen gegevens"/>
     <element xsi:type="archimate:ApplicationInterface" id="14d11c1e" name="REST"/>
-    <element xsi:type="archimate:ApplicationComponent" id="0c9075c5" name="Qiy Node"/>
+    <element xsi:type="archimate:ApplicationComponent" id="0c9075c5" name="Qiy Node Implementation"/>
     <element xsi:type="archimate:ApplicationService" id="465f4e99" name="Schuldeiser node"/>
     <element xsi:type="archimate:ApplicationService" id="5ce5f9ee" name="FiKks backend node"/>
     <element xsi:type="archimate:ApplicationComponent" id="914d7c76" name="fiKks App"/>
